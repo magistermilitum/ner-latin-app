@@ -1,0 +1,8 @@
+numpy==1.16.4
+Flask==0.12.2
+joblib==0.13.2
+pandas==0.25.1
+treetaggerwrapper==2.3
+sklearn-crfsuite==0.3.6
+requests==2.22.0
+gunicorn==19.9.0
