@@ -1,5 +1,5 @@
 numpy==1.16.4
-Flask==0.12.2
+Flask==1.0
 joblib==0.13.2
 pandas==0.25.1
 treetaggerwrapper==2.3
